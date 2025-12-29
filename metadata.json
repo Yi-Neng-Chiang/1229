@@ -1,0 +1,5 @@
+{
+  "name": "Billiards Lag Money Tracker",
+  "description": "A specialized calculator for a pool-table lagging game with bonus balls, opponent knock-ins, and individual player bankroll tracking.",
+  "requestFramePermissions": []
+}
